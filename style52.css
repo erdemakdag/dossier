@@ -1,0 +1,41 @@
+#bleu{
+    display: flex;
+    background-color: blue;
+    width: 600px;
+    height: 600px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#rose{
+    background-color: pink;
+    width: 200px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#rouge{
+    background-color: red;
+    width: 200px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.vert{
+    background-color: green;
+    width: 80px;
+    height: 220px;
+    margin: 10px;
+}
+
+.jaune{
+    background-color: yellow;
+    width: 120px;
+    height: 80px;
+    margin: 10px 10px;
+}
